@@ -1,7 +1,7 @@
 # Buscador
 Trabajo final de evaluacion del modulo Backend
 
-Ejecutar:
+Seguir los siguientes pasos:
 
 Situarse en la carpeta Buscador-master
 
